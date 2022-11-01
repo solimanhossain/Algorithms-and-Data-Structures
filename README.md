@@ -1,6 +1,6 @@
 # Competitive Programming Codes
 
-> ## [Searching](https://github.com/solimanhossain/CompetitiveProgramming/search)
+> ## [Searching](https://github.com/solimanhossain/CompetitiveProgramming/tree/main/search)
 - Linear Search
 - Binary Search
 
