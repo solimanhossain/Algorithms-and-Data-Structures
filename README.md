@@ -1,9 +1,19 @@
-# Competitive Programming Codes
+# Competitive Programming  Basic Contents
 
-> ## [Searching](https://github.com/solimanhossain/CompetitiveProgramming/tree/main/search)
+
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221017172544/Introduction-to-Data-Structures-and-Algorithms-DSA.png" alt="DSA"> <br><br>
+
+>  ## Self Learning 
+
+
+ ### [Searching](https://github.com/solimanhossain/CompetitiveProgramming/search)
 - Linear Search
 - Binary Search
 
-> ## [Sorting](https://github.com/solimanhossain/CompetitiveProgramming/tree/main/Contents)
+### [Sorting](https://github.com/solimanhossain/CompetitiveProgramming/tree/main/Contents)
 - Quick Sort
-- Bubble sort
+- Merge Sort
+
+### [Complexity](https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-stack-operations/)
+- Time
+- Space
