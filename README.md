@@ -3,7 +3,7 @@
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221017172544/Introduction-to-Data-Structures-and-Algorithms-DSA.png" alt="DSA"> <br><br>
 
->  ## Self Learning 
+>  ## Self Learning ([Following](https://www.tutorialspoint.com/data_structures_algorithms/))
 
 
  ### [Searching](https://github.com/solimanhossain/CompetitiveProgramming/search)
